@@ -1,0 +1,18 @@
+body, pre {
+  font-family: "Comic Sans MS";
+  text-align: center;
+}
+
+a:link, a:visited {
+  color: #0000ee;
+  text-decoration: none;
+}
+
+.space, pre {
+  line-height: 2.0;
+}
+
+.about {
+  font-size: 20px;
+  font-weight: bold;
+}
